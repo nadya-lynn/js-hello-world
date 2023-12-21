@@ -4,7 +4,16 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("HEllo, World!");
+console.log('Hello, World!')
+console.log('Hello, World!')
+console.log(2+2)
+console.log2+3;
+console.log('Quote from Raven "Nevermore".')
+console.log('There is no difference between a single or double quote');
+console.log("The sky is dark gray today. Tomorrow we shall expect some rain.")
+console.log('Coding Rocks!');
+console.log("My dog Bee Cee is my best friend! Bee Cee an older laday at 14 years, however still full of energy.");
 
 /*  
 Next, PLAY! 
